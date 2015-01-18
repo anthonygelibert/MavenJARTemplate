@@ -24,9 +24,10 @@
 
     <developers>
         <developer>
-            <id>Anthony</id>
+            <id>anthonygelibert</id>
             <name>Anthony Gelibert</name>
             <email>anthony.gelibert@me.com</email>
+            <timezone>Europe/Paris</timezone>
         </developer>
     </developers>
 
