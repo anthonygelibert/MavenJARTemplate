@@ -12,6 +12,7 @@
     <name>Template :: Maven :: JAR</name>
     <description>Template for Maven JAR packaging</description>
     <inceptionYear>2015</inceptionYear>
+    <url>https://github.com/anthonygelibert/MavenJARTemplate</url>
 
     <licenses>
         <license>
@@ -27,8 +28,6 @@
             <email>anthony.gelibert@me.com</email>
         </developer>
     </developers>
-
-    <url>https://github.com/Nocosium/MavenJARTemplate</url>
 
     <scm>
         <url>https://github.com/anthonygelibert/MavenJARTemplate</url>
