@@ -130,6 +130,7 @@
                         <manifest>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                             <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
+                            <mainClass>fr.gelibert.template.maven.jar.DummyClass</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
